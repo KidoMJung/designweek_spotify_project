@@ -11,8 +11,16 @@
 
 
 # Extra reading 
+- HTML5: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
+- Block: https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements
+- Inline-block: https://developer.mozilla.org/en-US/docs/Web/HTML/Inline_elements
 - The CSS box model: https://www.w3schools.com/css/css_boxmodel.asp
-- CSS flex box for layout: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
-- A mini game to learn flex box: https://flexboxfroggy.com
+- Position property: https://developer.mozilla.org/en-US/docs/Web/CSS/position
+- Float: https://css-tricks.com/all-about-floats/
 - Learn how to use JavaScipt in order to make your page interactive: https://www.w3schools.com/js/js_htmldom.asp
 - Box shadow generator: https://www.cssmatic.com/box-shadow
+
+#For Tomorrow
+- CSS Box model: https://css-tricks.com/the-css-box-model/
+- CSS flex box for layout: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+- A mini game to learn flex box: https://flexboxfroggy.com
