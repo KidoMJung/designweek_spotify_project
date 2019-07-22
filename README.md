@@ -7,7 +7,7 @@
 
 4. Double click on the index.html in order to open the webpage with your favourite browser (although ideally you use Google Chrome).
 
-5. See a live example [here]
+5. See a live example [here](https://kidomjung.github.io/designweek_spotify_project/)
 
 
 # Extra reading 
